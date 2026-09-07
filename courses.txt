@@ -1,2 +1,2 @@
  Available courses:- Python, Data structure, Databse Management system, computer networks
-new courses :- Devops
+new courses :- Devops, nest js, next js
